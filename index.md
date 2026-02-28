@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: First Post
 date: 2026-02-28
 categories: [NCPIF]
