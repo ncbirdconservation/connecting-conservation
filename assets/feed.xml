@@ -7,7 +7,8 @@ permalink: /feed.xml
 {% capture source %}
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>{{ "/" | absolute_url }}</id>
-  <title>{{ site.title }}</title>
+  <!-- <title>{{ site.title }}</title> -->
+  <title>NCPIF Test Feed</title>
   <subtitle>{{ site.description }}</subtitle>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <author>
@@ -23,7 +24,7 @@ permalink: /feed.xml
   <logo>{{ site.baseurl }}/assets/img/favicons/favicon-96x96.png</logo>
 
 {% for post in site.posts limit: 5 %}
-  {% if post.categories contains "newsletter" %}
+  {% if post.tags contains "newsletter" %}
     {% assign post_absolute_url = post.url | absolute_url %}
     <entry>
         <title>{{ post.title }}</title>
