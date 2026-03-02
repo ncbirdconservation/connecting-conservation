@@ -2,8 +2,8 @@
 title: "NC Partners in Flight Collective Returns"
 authors: "Scott K. Anderson"
 date: 2026-03-02
-categories: [newsletter]
-tags: [birds, surveys]
+categories: [NC PIF]
+tags: [newsletter]
 published: true
 image:
     path: "/assets/img/2026-03-02-ProthonotaryWarbler_JohnCarpenter.png"
