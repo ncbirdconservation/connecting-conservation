@@ -1,6 +1,6 @@
 ---
 title: "NC Partners in Flight Collective Returns"
-author: "Scott K. Anderson"
+authors: "Scott K. Anderson"
 date: 2026-03-02
 categories: [NC PIF]
 tags: [birds, surveys]
