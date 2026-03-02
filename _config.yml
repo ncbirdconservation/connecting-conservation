@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: NC Partners in Flight # the main title
 
-tagline: Connection, Collaboration, Cooperation # it will display as the subtitle
+tagline: Collaborative dedicated to the conservation of birds # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
