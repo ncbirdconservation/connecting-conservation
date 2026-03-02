@@ -1,5 +1,6 @@
 ---
 title: "Last Day of NC Bird Atlas Data Collection"
+author: Scott K. Anderson
 date: 2026-02-28
 categories: [NC Bird Atlas]
 tags: [birds, surveys]
