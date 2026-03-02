@@ -6,7 +6,7 @@ order: 1
 
 # Read-Outs
 
-Interested in hearing about recent meetings and conferences, [check out these posts](/_posts/).
+Interested in hearing about recent meetings and conferences, check out these posts.
 
 # Upcoming
 {% include ncpif_calendar.html %}
