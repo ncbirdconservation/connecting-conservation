@@ -1,8 +1,8 @@
 ---
-title: "Last Day of NC Bird Atlas Data Collection"
+title: "NC Partners in Flight Collective Returns"
 author: "Scott K. Anderson"
 date: 2026-02-28
-categories: [NC Bird Atlas]
+categories: [NC PIF]
 tags: [birds, surveys]
 published: true
 image:
