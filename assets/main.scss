@@ -1,7 +1,8 @@
 
 ---
 ---
-@import "chirpy";
+// @import "chirpy";
+@import "{{ site.theme }}";
 
 figcaption {
     font-size: 0.8rem;
