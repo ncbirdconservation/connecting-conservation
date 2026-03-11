@@ -4,7 +4,6 @@ date: '2026-03-11'
 description: ''
 key: species-american-redstart
 layout: page
-permalink: /kb/species-american-redstart
 properties:
   Has AOS4 Code: AMRE
   Has AOS59 Code: 1983

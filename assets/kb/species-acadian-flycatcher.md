@@ -4,7 +4,6 @@ date: '2026-03-11'
 description: ''
 key: species-acadian-flycatcher
 layout: page
-permalink: /kb/species-acadian-flycatcher
 properties:
   Has AOS4 Code: ACFL
   Has AOS59 Code: 1303

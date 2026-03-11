@@ -4,7 +4,6 @@ date: '2026-03-11'
 description: ''
 key: species-american-robin
 layout: page
-permalink: /kb/species-american-robin
 properties:
   Has AOS4 Code: AMRO
   Has AOS59 Code: 1603

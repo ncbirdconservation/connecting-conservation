@@ -4,7 +4,6 @@ date: '2026-03-11'
 description: ''
 key: species-american-black-duck
 layout: page
-permalink: /kb/species-american-black-duck
 properties:
   Has AOS4 Code: ABDU
   Has AOS59 Code: 49

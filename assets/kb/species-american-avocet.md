@@ -4,7 +4,6 @@ date: '2026-03-11'
 description: ''
 key: species-american-avocet
 layout: page
-permalink: /kb/species-american-avocet
 properties:
   Has AOS4 Code: AMAV
   Has AOS59 Code: 444

@@ -4,7 +4,6 @@ date: '2026-03-11'
 description: ''
 key: species-american-woodcock
 layout: page
-permalink: /kb/species-american-woodcock
 properties:
   Has AOS4 Code: AMWO
   Has AOS59 Code: 512
