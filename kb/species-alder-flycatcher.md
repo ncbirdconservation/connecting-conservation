@@ -4,6 +4,7 @@ date: '2026-03-11'
 description: ''
 key: species-alder-flycatcher
 layout: page
+permalink: /kb/species-alder-flycatcher
 properties:
   Has AOS4 Code: ALFL
   Has AOS59 Code: 1304

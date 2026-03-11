@@ -4,6 +4,7 @@ date: '2026-03-11'
 description: ''
 key: species-velvet-scoter
 layout: page
+permalink: /kb/species-velvet-scoter
 properties:
   Has AOS4 Code: VESC
   Has AOS59 Code: 68

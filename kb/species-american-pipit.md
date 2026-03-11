@@ -4,6 +4,7 @@ date: '2026-03-11'
 description: ''
 key: species-american-pipit
 layout: page
+permalink: /kb/species-american-pipit
 properties:
   Has AOS4 Code: AMPI
   Has AOS59 Code: 1678

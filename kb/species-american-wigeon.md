@@ -4,6 +4,7 @@ date: '2026-03-11'
 description: ''
 key: species-american-wigeon
 layout: page
+permalink: /kb/species-american-wigeon
 properties:
   Has AOS4 Code: AMWI
   Has AOS59 Code: 44

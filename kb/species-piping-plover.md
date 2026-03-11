@@ -4,6 +4,7 @@ date: '2026-03-11'
 description: ''
 key: species-piping-plover
 layout: page
+permalink: /kb/species-piping-plover
 properties:
   Has AOS4 Code: PIPL
   Has AOS59 Code: 461
