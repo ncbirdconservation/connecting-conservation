@@ -33,7 +33,6 @@ tags:
 - NC SGCN
 title: Acadian Flycatcher
 type: Species
-url: ''
-
 ---
-{{Species Page}}
+
+# Species Page
