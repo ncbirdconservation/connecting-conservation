@@ -24,7 +24,7 @@ properties:
   Is SGCN: 1
   Present Breeding: 1
   Was WAP Evaluated: 1
-published: 'true'
+published: true
 tags:
 - Species
 - Bird
