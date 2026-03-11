@@ -5,6 +5,12 @@ key: species-acadian-flycatcher
 layout: page
 title: Acadian Flycatcher
 type: Species
+tags:
+- Species
+- Bird
+- Passeriformes
+- Tyrannidae
+- NC SGCN
 ---
 
 ## Testing
