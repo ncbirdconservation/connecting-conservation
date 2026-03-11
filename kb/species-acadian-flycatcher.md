@@ -3,6 +3,8 @@ authors: NC Bird Conservation
 date: 2026-03-11
 key: species-acadian-flycatcher
 layout: page
+title: Acadian Flycatcher
+type: Species
 properties:
   Has AOS4 Code: ACFL
   Has AOS59 Code: 1303
@@ -30,8 +32,7 @@ tags:
 - Passeriformes
 - Tyrannidae
 - NC SGCN
-title: Acadian Flycatcher
-type: Species
+
 ---
 
 # Species Page

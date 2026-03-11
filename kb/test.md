@@ -1,9 +1,10 @@
 ---
-layout: page
 authors: NC Bird Conservation
 date: 2026-03-11
 key: species-acadian-flycatcher
-title: test page
+layout: page
+title: Acadian Flycatcher
+type: Species
 ---
 
 ## Testing
